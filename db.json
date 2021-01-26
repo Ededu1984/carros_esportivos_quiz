@@ -1,0 +1,44 @@
+{
+    
+    "bg": "https://i.pinimg.com/originals/23/59/28/235928d68d42a04742d35b6c2facf577.jpg",
+    "title": "Quiz sobre carros Alura",
+    "description": "Teste seus conhecimentos sobre carros atráves deste divertido quiz",
+    "questions": [
+      {
+        "image": "https://media.ford.com/content/fordmedia/fsa/br/pt/news/2018/10/02/ford-modelo-t--primeiro-carro-popular-da-historia--comemora-110-/jcr:content/image.img.881.495.jpg/1538508586910.jpg",
+        "title": "Qual o nome do primeiro carro criado por Henry Ford?",
+        "description": "Essa é pra aquecer!!",
+        "answer": 0,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://contagemmotorpecas.com.br/blog/wp-content/uploads/sites/3/2019/08/mmm.jpg",
+        "title": "Quais são as configurações possíveis de cilindro que o projeto de um motor de carro pode ter?",
+        "description": "Essa é pra quem conhece de mecânica...rsrs",
+        "answer": 3,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#3f51b5",
+        "secondary": "#651fff",
+        "mainBg": "#666666",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
